@@ -8,10 +8,10 @@ headphones to discover a new world of hidden sounds.
 
 ![HSE](Images/HSE.png)
 
-I use a 100mH inductor to scope out power supplies, electric motors, smartphones.
+Use a 100mH inductor to scope out power supplies, electric motors, smartphones.
 Any electromagnetic source will produce a distinct sound. 
-Using a piezo disk attached to a vibrating surface you can amplify the vibration.
-You can use it on guitar, violin, toothpicks, brums...whatever.
+Using a piezo disk attached to a vibrating surface you can amplify it.
+You can use it on guitar, violin, toothpicks or a broom...whatever.
 
 ![GerberView](Images/Hidden_Sound_Explorer_GerberView.jpg)
 
