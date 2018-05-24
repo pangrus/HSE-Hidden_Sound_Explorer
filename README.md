@@ -1,4 +1,4 @@
-# HSE-Hidden_Sound_Explorer
+# HSE - Hidden Sound Explorer
 Hidden Sound Explorer
 
 ![HSE](Images/HSE.png)
