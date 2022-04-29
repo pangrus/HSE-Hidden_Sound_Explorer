@@ -1,7 +1,7 @@
 # HSE - Hidden Sound Explorer
 
-Hidden Sound Explorer is a circuit that allows to amplify small voltages
-coming from piezo-electric transducers or from inductors (coils).
+Hidden Sound Explorer is a circuit that transduces the electromagnetic fields, produced by the electronic devices that surround us, into sounds to be listened to through earphones.
+It amplifies the electrical signal of a coil connected to the input, a two-pole connector. A piezoelectric disc (contact microphone) can also be connected to the input terminals to amplify micro-sounds that are normally inaudible.
 
 The output is a 1/8" stereo jack in which you can plug your
 headphones to discover a new world of hidden sounds.
@@ -18,4 +18,3 @@ Use it on guitar, violin, toothpicks or a broom...whatever.
 
 In this repository you can find the schematic and the PCB production files to build your own device.
 
-Enjoy.
